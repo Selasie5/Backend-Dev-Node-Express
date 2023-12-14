@@ -1,0 +1,14 @@
+{
+  "name": "serve-json-file-on-specific-route",
+  "version": "1.0.0",
+  "description": "Express-lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm text"
+  },
+  "author": "Selasie Sepenu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
